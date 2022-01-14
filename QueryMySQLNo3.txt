@@ -1,0 +1,16 @@
+use DATABASE m_cory_sakti_t;
+
+INSERT INTO penduduk(nip, nama_lengkap, tanggal_lahir, tempat_lahir)
+VALUES ('1', 'cory', '2008-7-04', 'bandung');
+
+INSERT INTO penduduk(nip, nama_lengkap, tanggal_lahir, tempat_lahir)
+VALUES ('2', 'cor', '2008-7-04', 'bandung');
+
+INSERT INTO penduduk(nip, nama_lengkap, tanggal_lahir, tempat_lahir)
+VALUES ('3', 'cor', '2008-7-04', 'bandung');
+
+INSERT INTO penduduk(nip, nama_lengkap, tanggal_lahir, tempat_lahir)
+VALUES ('4', 'cor', '2008-7-04', 'bandung');
+
+INSERT INTO penduduk(nip, nama_lengkap, tanggal_lahir, tempat_lahir)
+VALUES ('5', 'cor', '2008-7-04', 'bandung');
